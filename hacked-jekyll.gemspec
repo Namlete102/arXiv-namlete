@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = "hacked-jekyll"
   spec.version       = "3.1.1"
   spec.authors       = ["piazzai"]
-  spec.email         = ["42124135+piazzai@users.noreply.github.com"]
+  spec.email         = ["hello@piazzai.addy.io"]
 
   spec.summary       = "Jekyll microtheme that looks like JSON"
   spec.homepage      = "https://github.com/piazzai/hacked-jekyll"
